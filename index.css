@@ -1,21 +1,51 @@
-#header{
-  
+body{
+    background: url("img/f2.jpg");
 }
-#barra{
-  
+.corpo{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+   
 }
-h1{
-   font-family: Times New Roman, Verdana;
-   font-size: 16px;
-}
-a{
-  text-decoration: none;
-  color : grey;
-}
-a: hover{
-  color : #00008B;
+.div1{
+    background-color: white;
+    height: 50px;
+    margin-top: -4%;
 }
 #name{
-  font-size: 24px;
-  font-color: #00008B;
+    font-size: 28px;
+    font-family: Times New Roman, Courrier;
+    color: #00B2EE;
+}
+#menu{
+    font-size: 24px;
+    font-family: Times New Roman, Courrier;
+    color: blue;
+    padding: 10px 4px;
+    margin-top: -10%;
+    float:right;
+    
+}
+#menu li {
+    list-style: none;
+    float: right;
+   
+    
+}
+#menu li a{
+     text-decoration: none;
+     padding-left: 4px;
+     
+}
+.sobre{
+    background-color: #00B2EE;
+    height: 400px;
+    margin-top: 5%;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    padding-left: 3%;
 }
