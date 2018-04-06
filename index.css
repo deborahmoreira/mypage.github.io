@@ -1,1 +1,16 @@
-
+#header{
+  
+}
+#barra{
+  
+}
+h1{
+   font-family: Times New Roman, Verdana;
+   font-size: 16px;
+}
+a{
+  color : grey;
+}
+a: hover{
+  color : blue;
+}
