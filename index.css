@@ -1,51 +1,61 @@
 body{
-    background: url("img/f2.jpg");
+  background: url("img/f2.jpg");
 }
 .corpo{
-    margin: auto;
-    width: 50%;
-    border: 3px solid black;
-    padding: 10px;
-   
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+
 }
 .div1{
-    background-color: white;
-    height: 50px;
-    margin-top: -4%;
+  background-color: white;
+  height: 50px;
+  margin-top: -4%;
 }
 #name{
-    font-size: 28px;
-    font-family: Times New Roman, Courrier;
-    color: #00B2EE;
+  font-size: 28px;
+  font-family: Times New Roman, Courrier;
+  color: #00B2EE;
 }
 #menu{
-    font-size: 24px;
-    font-family: Times New Roman, Courrier;
-    color: blue;
-    padding: 10px 4px;
-    margin-top: -10%;
-    float:right;
-    
+  font-size: 24px;
+  font-family: Times New Roman, Courrier;
+  color: blue;
+  padding: 10px 4px;
+  margin-top: -10%;
+  float:right;
+
 }
 #menu li {
-    list-style: none;
-    float: right;
-   
-    
+  list-style: none;
+  float: right;
+
+
 }
 #menu li a{
-     text-decoration: none;
-     padding-left: 4px;
-     
+  text-decoration: none;
+  padding-left: 4px;
+
 }
 .sobre{
-    background-color: #00B2EE;
-    height: 400px;
-    margin-top: 5%;
+  background-color: #00B2EE;
+  height: 400px;
+  margin-top: 5%;
+}
+.habilidades{
+  background-color: #00B2EE;
+  height: 400px;
+  margin-top: 10%;
+}
+.contatos{
+  background-color: #00B2EE;
+  height: 400px;
+  margin-top: 15%;
 }
 img{
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    padding-left: 3%;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  padding-left: 3%;
 }
