@@ -4,7 +4,7 @@ body{
 .corpo{
   margin: auto;
   width: 50%;
-  border: 3px solid black;
+  border: 3px solid white;
   padding: 10px;
 
 }
@@ -45,17 +45,27 @@ body{
 }
 .habilidades{
   background-color: #00B2EE;
-  height: 400px;
+  height: 450px;
   margin-top: 10%;
 }
-.contatos{
+.contato{
   background-color: #00B2EE;
-  height: 400px;
+  height: 150px;
   margin-top: 15%;
 }
-img{
+.img{
   border-radius: 50%;
   width: 150px;
   height: 150px;
-  padding-left: 3%;
+  position: relative;
+  left: 35%;
+  top: 2%;
+  
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: blue;
 }
